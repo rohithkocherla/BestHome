@@ -1,0 +1,35 @@
+/* .home-container {
+    display: flex;
+    background-color: #f4f4f4; 
+  }
+  
+  .home-image {
+    width: 1400px;
+    height: 400px;
+    border-radius: 2px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  } */
+
+  /*.image-overlay {
+    position: relative;
+    display: inline-block;
+  }
+
+
+  .image-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-weight: bold;
+    /* background: rgba(0, 0, 0, 0.5);  
+    padding: 10px 20px;
+    border-radius: 10px;
+  }*/
+  
+
+  #container{
+    height: 100px;
+  }
